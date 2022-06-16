@@ -15,7 +15,7 @@ body {
 	color: #333;
 	background-color: #eee;
 	font-size: 120%;
-	background: #fff url(http://192.168.1.110:2022/web/bg.jpg) no-repeat fixed center center;
+	background: #fff url(https://www.ppt-backgrounds.net/thumbs/tropical-beachs-tropical-beach-5-tropical-beach---picture-background.jpeg) no-repeat fixed center center;
 	background-size: 100% 100%;
 }
 
@@ -57,6 +57,7 @@ footer {
 #page {
 	overflow: hidden;
 	background-color: #fff;
+	background: rgba(255,255,255,0.8);
 	border-radius: 5px;
 	box-shadow: 0 0 3px #ccc
 }
